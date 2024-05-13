@@ -1,0 +1,22 @@
+/* multi line comments works in CSS or JavaScript */
+h1{
+    text-align: center;
+}
+
+/* adds a background color and centers the content */
+#customNav {
+    border: 30px solid #008079;
+    background-color: #f4c806c2;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+#favoriteLink{
+    font-style: italic;
+}
+
+
+.navLinks{
+    color: red;
+}
